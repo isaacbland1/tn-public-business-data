@@ -1,0 +1,2 @@
+business_id,business_name,status,entity_type,formed_date,agent_name,agent_city,scraped_at
+EXAMPLE123,Example Co LLC,Active,LLC,2020-01-01,Agent Example,Nashville,2025-10-24T02:30:00Z
